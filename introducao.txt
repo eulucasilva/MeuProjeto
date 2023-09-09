@@ -1,1 +1,3 @@
 Este arquivo será utilizado para solidificar os conhecimentos e aprender a manusear o Git e Github.
+
+Um novo recurso será adicionado ao projeto. Será uma barra de navegação com algumas informações para melhorar a navegabilidade e usabilidade do usuário.
