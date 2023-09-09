@@ -1,0 +1,1 @@
+Este arquivo será utilizado para solidificar os conhecimentos e aprender a manusear o Git e Github.
